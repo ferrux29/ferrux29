@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferrux 🥺</h1>
 <h3 align="center">Systems Engineering student</h3>
-<h2 align="center"><img align="center" src="https://ekladata.com/YuYhBSblWXh6QkcMELH9oqGmUJM.gif" alt="Mirai"></h2>
+<h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/61064914/235554418-212acb7e-d6ee-4927-82ca-3e931dad85bb.gif" alt="Mirai"></h2>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
