@@ -1,17 +1,37 @@
-<h1 align="center">Hi 👋, I'm Ferrux 🥺</h1>
-<h3 align="center">Systems Engineering student</h3>
-<h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/61064914/235554418-212acb7e-d6ee-4927-82ca-3e931dad85bb.gif" alt="Mirai"></h2>
+# Hi, I'm Sebastian Ferrufino
 
+Systems Engineer and Visual Designer based in Santa Cruz, Bolivia.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sferrufinom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sferrufinom" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/sebastian ferrufino manyari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian ferrufino manyari" height="30" width="40" /></a>
-</p>
+I combine visual communication, branding and technical thinking to create clear digital experiences for technology, Web3 and emerging products.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Currently
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferrux29&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="ferrux29" /></p>
+- Creative Designer at Genzio Media
+- Building projects with C#, .NET and Flutter
+- Working across visual design, presentations and digital content
+- Developing my professional portfolio
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferrux29&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="ferrux29" /></p>
+## Featured projects
+
+### Personal Portfolio
+
+Bilingual portfolio showcasing selected visual design work and my systems engineering profile.
+
+[View portfolio](https://portfolio-bvc.pages.dev)
+
+### GDS API
+
+REST API developed as part of a systems management project.
+
+[View repository](https://github.com/ferrux29/gds_api)
+
+## Tools
+
+**Development:** C#, .NET, Flutter, Dart, Python, SQL and Git  
+**Design:** Figma, Photoshop, Illustrator, Canva and Affinity Designer
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/sebastian-ferrufino-manyari-52a563265/) ·
+[Portfolio](https://portfolio-bvc.pages.dev) ·
+[Email](mailto:sferrufino.portfolio@gmail.com)
