@@ -6,10 +6,9 @@ I combine visual communication, branding and technical thinking to create clear 
 
 ## Currently
 
-- Creative Designer at Genzio Media
-- Building projects with C#, .NET and Flutter
+- Creative Lead at Cold and Coffee Club
+- Building projects with TypeScript and ExpoGo
 - Working across visual design, presentations and digital content
-- Developing my professional portfolio
 
 ## Featured projects
 
@@ -17,7 +16,7 @@ I combine visual communication, branding and technical thinking to create clear 
 
 Bilingual portfolio showcasing selected visual design work and my systems engineering profile.
 
-[View portfolio](https://portfolio-bvc.pages.dev)
+[View portfolio](https://sferrufino.com)
 
 ### GDS API
 
