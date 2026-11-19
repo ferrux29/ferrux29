@@ -26,7 +26,7 @@ REST API developed as part of a systems management project.
 
 ## Tools
 
-**Development:** C#, .NET, Flutter, Dart, Python, SQL and Git  
+**Development:** C#, .NET, React, Expo, Typescript, Python, SQL and Git  
 **Design:** Figma, Photoshop, Illustrator, Canva and Affinity Designer
 
 ## Contact
